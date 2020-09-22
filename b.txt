@@ -1,1 +1,2 @@
 This is my first line in git b
+[A[A[B[BThis is second line in git b
